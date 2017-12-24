@@ -1,0 +1,10 @@
+*.apk
+*.pyc
+conn.py
+run.py
+apk/
+TuokeApk/bin/
+TuokeApk/gen/
+TuokeApk/build/
+apktool.bat
+apktool_2.2.2.jar
