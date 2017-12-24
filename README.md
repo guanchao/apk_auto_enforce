@@ -17,6 +17,7 @@ Usage: python jiagu.py xxx.apk
 (4)jdk1.8
 
 
+
 sign文件夹：用于重打包签名
 
 smali文件夹：当目标app没有自定义Application时，给该app添加一个自定义Application
@@ -24,6 +25,7 @@ smali文件夹：当目标app没有自定义Application时，给该app添加一�
 TuokeApk文件夹：用于加密加固了的classes.dex文件
 
 JiaguApk.jar：用于合并TuokeApk/bin/classes.dex和加密了的目标目标TargetApk.zip(只包含：classes.dex)
+
 
 TODO:
 ###0.elf头破坏
