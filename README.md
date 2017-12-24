@@ -1,9 +1,18 @@
 Usage: python jiagu.py xxx.apk
 
+效果：实现dex文件整体加密、隐藏
+
+想体验具体效果可以访问我开发的工具：http://01hackcode.com
+
+加固原理，可以访问我写得博客文章：http://shuwoom.com/?p=360
+
 安装环境：
 (1)NDK：14.1
+
 (2)gradle-3.3
+
 (3)build-tools:android-25
+
 (4)jdk1.8
 
 
