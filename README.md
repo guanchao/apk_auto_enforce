@@ -4,7 +4,18 @@ Usage: python jiagu.py xxx.apk
 
 (1)想体验具体效果可以访问我开发的工具：http://01hackcode.com
 
-(2)加固原理，可以访问我写得博客文章：http://shuwoom.com/?p=360
+(2)加固原理，可以访问我写得一系列博客文章：
+
+> * APP的安装过程   http://shuwoom.com/?p=60
+> * DALVIK虚拟机启动过程  http://shuwoom.com/?p=112
+> * APP的启动过程  http://shuwoom.com/?p=142
+> * DEX文件结构分析   http://shuwoom.com/?p=179
+> * DALVIK加载和解析DEX过程   http://shuwoom.com/?p=269
+> * DALVIK查找类和方法的过程  http://shuwoom.com/?p=282
+> * ELF文件结构分析   http://shuwoom.com/?p=286
+> * SO加载解析过程   http://shuwoom.com/?p=351
+> * 实战开发APK安全加固   http://shuwoom.com/?p=360
+> * Android代码混淆技术总结 http://shuwoom.com/?p=506
 
 安装环境:
 
